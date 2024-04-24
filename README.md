@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guocs</h1>
 <h3 align="center">a newbie just learning this</h3>
-<img align="right" alt="Coding" width="400" src="https://uploads.disquscdn.com/images/aec49c68e256259cfaeb22f372f70a123a7fd7385528dd21b530b7378d3337db.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuocs&label=Profile%20views&color=0e75b6&style=flat" alt="wuocs" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_guocs_" target="blank"><img src="https://img.shields.io/twitter/follow/_guocs_?logo=twitter&style=for-the-badge" alt="_guocs_" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuocs&label=Profile%20views&color=0e75b6&style=flat" alt="wuocs" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
