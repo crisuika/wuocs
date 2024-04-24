@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://komarev.com/ghpvc/?username=wuocs&label=Profile%20views&color=0e75b6&style=flat" />
 
 <h1 align="center">Hi 👋, I'm Guocs</h1>
 
